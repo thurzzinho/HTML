@@ -37,4 +37,9 @@ Para a construção dos projetos, utilizo as ferramentas:
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/thurzzinho/HTML/tree/main/Primeiro-Projeto%20HTML-CSS
+
+2. **acesse a pasta:**
+   ```bash
+cd Primeiro-Projeto-HTML-CSS
+
