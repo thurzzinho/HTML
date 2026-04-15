@@ -17,9 +17,9 @@ O objetivo deste Repositório é documentar minha evolução no desenvolvimento 
 Aqui estão alguns dos principais projetos disponíveis:
 
 
-| Miniatura | Projeto | Descrição | Link |
-| :---: | :--- | :--- | :---: |
-| 📋 | **Página de Receita** | Uma página de Receita de Fricassê de Frango | [Ver Site](#) |
+| Miniatura | Projeto | Descrição |
+| :---: | :--- | :--- |
+| 📋 | **Página de Receita** | Uma página de Receita de Fricassê de Frango |
 ---
 
 ## 🛠️ Tecnologias Utilizadas
