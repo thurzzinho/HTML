@@ -1,10 +1,6 @@
 # 🚀 Meu Portfólio de Projetos Web
 
-<p align="center">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="JS">
-</p>
+[![Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 > Bem-vindo(a)! Este repositório é o meu "laboratório" onde irei centralizar todos os meus projetos front-end, desde landing pages simples até aplicações web mais complexas.
 
@@ -23,7 +19,7 @@ Aqui estão alguns dos principais projetos disponíveis:
 
 | Miniatura | Projeto | Descrição | Link |
 | :---: | :--- | :--- | :---: |
-| 📋 | **Landing Page Café** | Uma página de Receita de Fricassê de Frango | [Ver Site](#) |
+| 📋 | **Página de Receita** | Uma página de Receita de Fricassê de Frango | [Ver Site](#) |
 ---
 
 ## 🛠️ Tecnologias Utilizadas
