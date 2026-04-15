@@ -1,3 +1,8 @@
+:root {
+  font-family: 'Alice', serif;
+  line-height: 1.5;
+  font size: 20px;}
+
 body {
   background-image: url(assets/fundo.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.296), rgba(0, 0, 0, 0.242)), url(assets/fundo.jpg);
@@ -7,7 +12,7 @@ body {
 #page {
 box-sizing: border-box;
 width: 800px;
-padding: 24px;
+padding: 48px;
 background-color: #f0e8c2;
 border-radius: 24px;
 margin: 45px auto;
@@ -17,3 +22,11 @@ align-items: center;
 img {
   border-radius: 16px;
 }
+
+h1 {
+line-height: 140%;
+font-size: 40px;
+}
+
+h2 {
+font-size: 24px;
